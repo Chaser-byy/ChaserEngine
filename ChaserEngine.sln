@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chaser", "Chaser\Chaser.vcxproj", "{AE4E8F0C-6D31-404B-BF29-7BD76D23259C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameApp", "GameApp\GameApp.vcxproj", "{2B5316A6-1618-4890-81D1-E2DDE210E87A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE4E8F0C-6D31-404B-BF29-7BD76D23259C}.Debug|x64.ActiveCfg = Debug|x64
+		{AE4E8F0C-6D31-404B-BF29-7BD76D23259C}.Debug|x64.Build.0 = Debug|x64
+		{AE4E8F0C-6D31-404B-BF29-7BD76D23259C}.Release|x64.ActiveCfg = Release|x64
+		{AE4E8F0C-6D31-404B-BF29-7BD76D23259C}.Release|x64.Build.0 = Release|x64
+		{2B5316A6-1618-4890-81D1-E2DDE210E87A}.Debug|x64.ActiveCfg = Debug|x64
+		{2B5316A6-1618-4890-81D1-E2DDE210E87A}.Debug|x64.Build.0 = Debug|x64
+		{2B5316A6-1618-4890-81D1-E2DDE210E87A}.Release|x64.ActiveCfg = Release|x64
+		{2B5316A6-1618-4890-81D1-E2DDE210E87A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98D6EE3C-4B49-4B8B-A9DC-790BBD92F22D}
+	EndGlobalSection
+EndGlobal
